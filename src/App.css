@@ -1,0 +1,18 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Red+Hat+Display&display=swap');
+
+
+
+
+*{
+    background-color: #111717;
+    box-sizing: content-box;
+    text-decoration: none;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.hyperlink{
+    color:red
+}

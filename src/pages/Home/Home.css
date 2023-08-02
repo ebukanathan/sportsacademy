@@ -1,0 +1,43 @@
+.home-page{
+    margin-top: 30vh;
+    width: 100%;
+    padding: 10px;
+    
+}
+
+.sections{
+    margin-bottom: 3rem;
+    padding: 20px;
+}
+
+.hero-section{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    font-size: 25px;
+    background-image:url('/src/assets/pexels-photo-1837687.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+
+}
+ 
+.hero-section h2{
+    background: none;
+}
+.subtitle{
+    color:#ABDF3A;
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+
+}
+
+.detail{
+    font-size:1.1rem;
+    line-height: 27px;
+}

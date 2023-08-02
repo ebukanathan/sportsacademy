@@ -1,0 +1,36 @@
+.nav-bar{
+    width:100%;
+    position:fixed;
+    top:0;
+    height: 15vh;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    margin-top: 0 auto;
+    text-decoration: none;
+    border-radius: 5px;
+    border: solid 1px #767947;
+    color:white
+    
+
+
+}
+
+.nav-bar img{
+    padding: 20px;
+    color: #767947;
+}
+
+.nav-menu{
+    color:#fff;
+    text-decoration: none;
+    display:flex;
+    justify-content: space-around;
+    margin-right: 10px;
+    gap:3px;
+    width: 40%;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

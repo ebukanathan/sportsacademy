@@ -1,0 +1,40 @@
+.footer{
+
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    margin-left: 5rem;
+    
+ 
+}
+
+.footer-logo{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: flex-start;
+    margin:10px
+    
+
+}
+
+.footer-contacts{
+    width: 100%;
+    display:grid;
+    grid-template-columns: auto auto;
+   
+
+.footer-contacts-item{
+    width: 50%;
+    height: 10vh;
+    margin:0 auto
+    color:green;
+    padding: 10px;
+
+}
+.footer-copyright{
+    margin-top: 5rem;
+    padding: 10px;
+}
